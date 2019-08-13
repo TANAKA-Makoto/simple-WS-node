@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/TANAKA-Makoto/simple-WS-node#readme",
   "dependencies": {
+    "argv": "0.0.2",
     "ws": "^7.1.2"
   }
 }
