@@ -1,0 +1,26 @@
+{
+  "name": "simple-ws-node",
+  "version": "1.0.0",
+  "description": "web socket test server work with node. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TANAKA-Makoto/simple-WS-node.git"
+  },
+  "keywords": [
+    "ws",
+    "websocket"
+  ],
+  "author": "TANAKA-Makoto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TANAKA-Makoto/simple-WS-node/issues"
+  },
+  "homepage": "https://github.com/TANAKA-Makoto/simple-WS-node#readme",
+  "dependencies": {
+    "ws": "^7.1.2"
+  }
+}
